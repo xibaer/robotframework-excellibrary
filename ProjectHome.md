@@ -1,0 +1,1 @@
+This project provides the ability to use Excel files in Robot Framework test cases
